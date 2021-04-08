@@ -1,0 +1,31 @@
+body {
+    color: white;
+}
+
+#special {
+    height: 400px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+#text {
+    border-style: dotted;
+}
+
+#container {
+    position: relative;
+    text-align: center;
+}
+
+#center-text {
+    color:rgb(100, 141, 255);
+    font-size: 100px;
+    position: absolute;
+    top: 45%;
+    width: 100%;
+}
+
+#float {
+    float: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
